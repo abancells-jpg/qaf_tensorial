@@ -85,3 +85,7 @@ Para ejecutar el benchmark, hay que introducir, en la carpeta donde está el cod
 python3 QAF_consumo_tokens.py --outdir ./qaf_token_results
 
 De este modo, se crea la carpeta qaf_tokens_results con subcarpetas para el tokenizador BPE entrenado (tokenizer), las figuras gráficas exportadas (figures) y los informes resumidos en tablas CSV (results).
+
+# 3_ESCALABILIDAD
+
+
