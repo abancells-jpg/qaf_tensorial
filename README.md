@@ -3,7 +3,7 @@ Implementación de QAF mediante redes tensoriales
 
 ## Estructura del Repositorio
 
-- : Manuscrito LaTeX completo del llibre (27 paginas)
+- : Manuscrito LaTeX completo del llibre (27 páginas) y pdf compilado
 - : Redes tensoriales MPS, MPO, 1TDVP, 2TDVP
 - : Extraccion 1-RDM / 2-RDM y fase z_ab
 - : Reordenamiento RCM y compilador QUBO bandejado
