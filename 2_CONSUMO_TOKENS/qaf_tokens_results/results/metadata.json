@@ -1,0 +1,7 @@
+{
+  "n_tasks": 750,
+  "n_architecture_evaluations": 3000,
+  "seed": 20260919,
+  "tokenizer": "SentencePiece BPE 1200 vocabulary, benchmark-trained",
+  "scientific_scope": "architecture-level token accounting; no external LLM inference"
+}
