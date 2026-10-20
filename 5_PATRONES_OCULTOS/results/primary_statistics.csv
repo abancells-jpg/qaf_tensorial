@@ -1,0 +1,2 @@
+hidden_pairs,qaf_mean_ari,relational_mean_ari,absolute_ari_advantage,relative_ari_improvement_pct,qaf_hidden_win_rate_pct,ari_ci95_low,ari_ci95_high,ari_wilcoxon_p,qaf_anomaly_auc,relational_anomaly_auc,anomaly_auc_advantage,qaf_anomaly_win_rate_pct,anomaly_wilcoxon_p
+48,0.7672379991074304,0.25128716211855723,0.5159508369888732,205.32319782633692,100.0,0.4833487035242562,0.5485529704534903,3.552713678800501e-15,0.8217776259535929,0.6362436269755221,0.18553399897807082,100.0,1.52587890625e-05
